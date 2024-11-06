@@ -34,14 +34,15 @@ int main(int argc, char** argv)
         double length=1;//0.4
         double l_mur=0.05;
         double ymur=1.0;
+        double start=0.;
         
-        scopi::segment<dim> seg1(scopi::type::position_t<dim>{0., ymur}, scopi::type::position_t<dim>{length, ymur});
+        scopi::segment<dim> seg1(scopi::type::position_t<dim>{start, ymur}, scopi::type::position_t<dim>{length, ymur});
         scopi::segment<dim> seg2(scopi::type::position_t<dim>{length+lexit, ymur}, scopi::type::position_t<dim>{length+length+lexit, ymur});
         scopi::segment<dim> seg3(scopi::type::position_t<dim>{length, ymur}, scopi::type::position_t<dim>{length, ymur+l_mur});
         scopi::segment<dim> seg4(scopi::type::position_t<dim>{length+lexit, ymur}, scopi::type::position_t<dim>{length+lexit, ymur+l_mur});
-        scopi::segment<dim> seg5(scopi::type::position_t<dim>{0., ymur+l_mur}, scopi::type::position_t<dim>{length, ymur+l_mur});
+        scopi::segment<dim> seg5(scopi::type::position_t<dim>{start, ymur+l_mur}, scopi::type::position_t<dim>{length, ymur+l_mur});
         scopi::segment<dim> seg6(scopi::type::position_t<dim>{length+lexit, ymur+l_mur}, scopi::type::position_t<dim>{length+length+lexit, ymur+l_mur});
-        scopi::segment<dim> seg7(scopi::type::position_t<dim>{0., ymur}, scopi::type::position_t<dim>{0., ymur+l_mur});
+        scopi::segment<dim> seg7(scopi::type::position_t<dim>{start, ymur}, scopi::type::position_t<dim>{start, ymur+l_mur});
         scopi::segment<dim> seg8(scopi::type::position_t<dim>{length+length+lexit, ymur}, scopi::type::position_t<dim>{length+length+lexit,ymur+l_mur});
 
         particles.push_back(seg1, scopi::property<dim>().deactivate());
@@ -53,8 +54,8 @@ int main(int argc, char** argv)
         particles.push_back(seg7, scopi::property<dim>().deactivate());
         particles.push_back(seg8, scopi::property<dim>().deactivate());
 
-        std::uniform_real_distribution<double> distrib_x(0.1, 2*length-lexit-max_radius);
-        std::uniform_real_distribution<double> distrib_y(0, ymur-max_radius);//0.7
+        std::uniform_real_distribution<double> distrib_x(0.3, 2*length+lexit-0.3);
+        std::uniform_real_distribution<double> distrib_y(0.2, ymur-0.1);//0.7
         //std::uniform_real_distribution<double> distrib_r(0.01, max_radius);//r is constant for me
 
         for (std::size_t i = 0; i < n_parts; ++i)
@@ -64,7 +65,7 @@ int main(int argc, char** argv)
             auto radius = 0.02;//distrib_r(generator);//0.025
             auto prop   = scopi::property<dim>()
                             .desired_velocity({
-                                {0.5 - x, 2 - y}
+                                {start+length+0.5*lexit - x, ymur - y}
             })
                             .mass(1.)
                             .moment_inertia(0.1);
