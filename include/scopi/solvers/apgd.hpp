@@ -118,7 +118,7 @@ namespace scopi
         }
 
         double alpha         = 0.05;
-        std::size_t max_ite  = 10000;
+        std::size_t max_ite  = 20000;//10000
         double tolerance     = 1e-7;
         bool dynamic_descent = true;
     };
