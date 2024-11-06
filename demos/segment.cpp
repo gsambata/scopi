@@ -54,7 +54,7 @@ int main(int argc, char** argv)
         particles.push_back(seg8, scopi::property<dim>().deactivate());
 
         std::uniform_real_distribution<double> distrib_x(0.1, 2*length-lexit-max_radius);
-        std::uniform_real_distribution<double> distrib_y(0, ymur1-max_radius);//0.7
+        std::uniform_real_distribution<double> distrib_y(0, ymur-max_radius);//0.7
         //std::uniform_real_distribution<double> distrib_r(0.01, max_radius);//r is constant for me
 
         for (std::size_t i = 0; i < n_parts; ++i)
