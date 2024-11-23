@@ -100,7 +100,7 @@ int main(int argc, char** argv)
             auto x      = distrib_x(generator);
             auto y      = distrib_y(generator);
             auto radius = 0.05;//distrib_r(generator);//0.05
-            double dist_factor=computeDistance(start+length+0.5*lexit,2, x,y)
+            double dist_factor=computeDistance(start+length+0.5*lexit,2, x,y);
             auto prop   = scopi::property<dim>()
                             .desired_velocity({
                                 {(start+length+0.5*lexit - x)*s/dist_factor, (2 - y)*s/dist_factor}// ymur+l_mur
@@ -135,7 +135,8 @@ int main(int argc, char** argv)
         
         // Ajouter des données à l'objet JSON
         json_obj["lexit"].push_back(lexit);//add an element to the end of a container such that vector or list
-        //add another field for the spontaneous velocity
+        //add another field for the spontaneous velocity modulus
+        json_obj["s"].push_back(s);
         // Sauvegarder l'objet JSON dans un fichier
         if (flag_test=="train"){
             std::ofstream file("lexit_train.json");//ofstream to open the file for writing
