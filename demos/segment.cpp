@@ -9,6 +9,8 @@
 #include <fstream>
 #include <nlohmann/json.hpp>
 
+//Distance function: function declaration
+double computeDistance(double x1, double y1, double x2, double y2);
 
 int main(int argc, char** argv)
 {
@@ -27,16 +29,16 @@ int main(int argc, char** argv)
         
 
     // Parametric test:train
-    // std::size_t ntrain = 10;
-    // std::size_t nsim=ntrain;
-    // std::string flag_test="train";
-    // unsigned int seed= 1;
+    std::size_t ntrain = 10;
+    std::size_t nsim=ntrain;
+    std::string flag_test="train";
+    unsigned int seed= 1;
 
     //Parametric test:valid
-    std::size_t nvalid = 5;
-    std::size_t nsim=nvalid;
-    std::string flag_test="valid";
-    unsigned int seed = 54321;
+    // std::size_t nvalid = 5;
+    // std::size_t nsim=nvalid;
+    // std::string flag_test="valid";
+    // unsigned int seed = 54321;
     
     std::default_random_engine generator;
     generator.seed(seed);
@@ -49,11 +51,6 @@ int main(int argc, char** argv)
     json_obj["Na"].push_back(n_parts);
     json_obj["deltat"].push_back(dt);
 
-    //Distance function
-    double computeDistance(double x1, double y1, double x2, double y2) {
-    // Using the distance formula
-    return sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
-    }
 
     for (std::size_t itrain = 0; itrain < nsim; ++itrain)
     {
@@ -66,8 +63,8 @@ int main(int argc, char** argv)
         auto lexit = distrib_lexit(generator); // varying parameter: exit width
 
         //Distribution for spontaneous velocity
-        double sbar=10.0
-        std::uniform_real_distribution<double> distrib_s(sbar-0.1*s, 10+0.1*sbar);
+        double sbar=10.0;
+        std::uniform_real_distribution<double> distrib_s(sbar-0.1*sbar, sbar+0.1*sbar);
         auto s=distrib_s(generator); //For now, the spontaneous velocity is the same for all the particles. It only varies for different geometric configurations
 
         double length=1;//0.4
@@ -166,4 +163,10 @@ int main(int argc, char** argv)
     
 
     return 0;
+}
+
+
+//Function definition
+double computeDistance(double x1, double y1, double x2, double y2) {
+        return sqrt(pow(x2 - x1, 2) + pow(y2 - y1, 2));
 }
