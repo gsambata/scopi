@@ -17,7 +17,7 @@ int main(int argc, char** argv)
     constexpr std::size_t dim = 2;
     double dt                 = .001;
     const double max_radius   = 0.05;
-    std::size_t total_it      = 500;//500 total time iterations
+    std::size_t total_it      = 250;//500 total time iterations
     std::size_t n_parts       = 20;//100
     
     scopi::initialize("spheres passing between two segments");//just adds a title to your command line option
@@ -63,7 +63,7 @@ int main(int argc, char** argv)
         auto lexit = distrib_lexit(generator); // varying parameter: exit width
 
         //Distribution for spontaneous velocity
-        double sbar=10.0;
+        double sbar=5.0;
         std::uniform_real_distribution<double> distrib_s(sbar-0.1*sbar, sbar+0.1*sbar);
         auto s=distrib_s(generator); //For now, the spontaneous velocity is the same for all the particles. It only varies for different geometric configurations
 
