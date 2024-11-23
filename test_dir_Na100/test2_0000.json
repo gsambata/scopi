@@ -1,0 +1,4365 @@
+{
+    "contacts": null,
+    "objects": [
+        {
+            "id": 0,
+            "normal": [
+                1.7730231858351654e-16,
+                -1.0
+            ],
+            "p1": [
+                0.0,
+                0.9999999999999999
+            ],
+            "p2": [
+                1.0,
+                1.0
+            ],
+            "properties": {
+                "active": false,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.0,
+                    0.0
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.0,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                0.7071067811865476,
+                -0.0,
+                -0.0,
+                -0.7071067811865475
+            ],
+            "tangent": [
+                1.0,
+                1.7730231858351654e-16
+            ],
+            "type": "segment"
+        },
+        {
+            "id": 1,
+            "normal": [
+                1.7730231858351654e-16,
+                -1.0
+            ],
+            "p1": [
+                1.2009557938043933,
+                0.9999999999999999
+            ],
+            "p2": [
+                2.2009557938043933,
+                1.0
+            ],
+            "properties": {
+                "active": false,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.0,
+                    0.0
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.0,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                0.7071067811865476,
+                -0.0,
+                -0.0,
+                -0.7071067811865475
+            ],
+            "tangent": [
+                1.0,
+                1.7730231858351654e-16
+            ],
+            "type": "segment"
+        },
+        {
+            "id": 2,
+            "normal": [
+                1.0,
+                0.0
+            ],
+            "p1": [
+                1.0,
+                0.9999999999999999
+            ],
+            "p2": [
+                1.0,
+                1.0499999999999998
+            ],
+            "properties": {
+                "active": false,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.0,
+                    0.0
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.0,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "tangent": [
+                -0.0,
+                1.0
+            ],
+            "type": "segment"
+        },
+        {
+            "id": 3,
+            "normal": [
+                1.0,
+                0.0
+            ],
+            "p1": [
+                1.2009557938043935,
+                0.9999999999999999
+            ],
+            "p2": [
+                1.2009557938043935,
+                1.0499999999999998
+            ],
+            "properties": {
+                "active": false,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.0,
+                    0.0
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.0,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "tangent": [
+                -0.0,
+                1.0
+            ],
+            "type": "segment"
+        },
+        {
+            "id": 4,
+            "normal": [
+                1.7730231858351654e-16,
+                -1.0
+            ],
+            "p1": [
+                0.0,
+                1.05
+            ],
+            "p2": [
+                1.0,
+                1.05
+            ],
+            "properties": {
+                "active": false,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.0,
+                    0.0
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.0,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                0.7071067811865476,
+                -0.0,
+                -0.0,
+                -0.7071067811865475
+            ],
+            "tangent": [
+                1.0,
+                1.7730231858351654e-16
+            ],
+            "type": "segment"
+        },
+        {
+            "id": 5,
+            "normal": [
+                1.7730231858351654e-16,
+                -1.0
+            ],
+            "p1": [
+                1.2009557938043933,
+                1.05
+            ],
+            "p2": [
+                2.2009557938043933,
+                1.05
+            ],
+            "properties": {
+                "active": false,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.0,
+                    0.0
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.0,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                0.7071067811865476,
+                -0.0,
+                -0.0,
+                -0.7071067811865475
+            ],
+            "tangent": [
+                1.0,
+                1.7730231858351654e-16
+            ],
+            "type": "segment"
+        },
+        {
+            "id": 6,
+            "normal": [
+                1.0,
+                0.0
+            ],
+            "p1": [
+                0.0,
+                0.9999999999999999
+            ],
+            "p2": [
+                0.0,
+                1.0499999999999998
+            ],
+            "properties": {
+                "active": false,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.0,
+                    0.0
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.0,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "tangent": [
+                -0.0,
+                1.0
+            ],
+            "type": "segment"
+        },
+        {
+            "id": 7,
+            "normal": [
+                1.0,
+                0.0
+            ],
+            "p1": [
+                2.2009557938043933,
+                0.9999999999999999
+            ],
+            "p2": [
+                2.2009557938043933,
+                1.0499999999999998
+            ],
+            "properties": {
+                "active": false,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.0,
+                    0.0
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.0,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "tangent": [
+                -0.0,
+                1.0
+            ],
+            "type": "segment"
+        },
+        {
+            "id": 8,
+            "position": [
+                1.1926525645872603,
+                0.8796519293010487
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.09217466768506366,
+                    1.1203480706989513
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 9,
+            "position": [
+                1.6570906099659082,
+                0.7080768009832382
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.5566127130637115,
+                    1.291923199016762
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 10,
+            "position": [
+                0.5340146630876552,
+                0.7387486570994186
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.5664632338145414,
+                    1.2612513429005814
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 11,
+            "position": [
+                1.356309309669274,
+                0.5362024305441803
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.2558314127670773,
+                    1.4637975694558198
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 12,
+            "position": [
+                0.8171468613009825,
+                0.383702468503234
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.2833310356012142,
+                    1.616297531496766
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 13,
+            "position": [
+                1.2621653898457112,
+                0.8568664392690275
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.1616874929435146,
+                    1.1431335607309725
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 14,
+            "position": [
+                1.1489142985732268,
+                0.6487164814203092
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.04843640167103014,
+                    1.3512835185796908
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 15,
+            "position": [
+                0.9658597016686312,
+                0.3468609520560789
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.13461819523356544,
+                    1.6531390479439212
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 16,
+            "position": [
+                1.6397411385378275,
+                0.8396458541339908
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.5392632416356309,
+                    1.1603541458660092
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 17,
+            "position": [
+                0.9209988031901643,
+                0.3928793399457831
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.1794790937120324,
+                    1.607120660054217
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 18,
+            "position": [
+                0.546997082583009,
+                0.6541528491782382
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.5534808143191876,
+                    1.3458471508217618
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 19,
+            "position": [
+                1.3293429102445877,
+                0.873833863143312
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.22886501334239107,
+                    1.126166136856688
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 20,
+            "position": [
+                1.320559689587063,
+                0.8068199912147032
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.22008179268486638,
+                    1.1931800087852968
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 21,
+            "position": [
+                1.5178876041372615,
+                0.7390482537128472
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.4174097072350649,
+                    1.260951746287153
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 22,
+            "position": [
+                0.5689592921861005,
+                0.27306909591996165
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.5315186047160961,
+                    1.7269309040800382
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 23,
+            "position": [
+                0.9919612946495094,
+                0.5836806767292684
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.10851660225268722,
+                    1.4163193232707316
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 24,
+            "position": [
+                1.5219921464190267,
+                0.23232186907059935
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.42151424951683003,
+                    1.7676781309294007
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 25,
+            "position": [
+                1.660277974854761,
+                0.7521661150765092
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.5598000779525643,
+                    1.247833884923491
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 26,
+            "position": [
+                1.1447906765499285,
+                0.4189956659255017
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.04431277964773184,
+                    1.5810043340744984
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 27,
+            "position": [
+                0.9530714057625451,
+                0.8156021561475053
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.14740649113965154,
+                    1.1843978438524947
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 28,
+            "position": [
+                1.6644373189108062,
+                0.714314687604432
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.5639594220086095,
+                    1.285685312395568
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 29,
+            "position": [
+                0.5013115613149708,
+                0.5197429232025313
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.5991663355872259,
+                    1.4802570767974688
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 30,
+            "position": [
+                1.6271059682692757,
+                0.48233975723856465
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.526628071367079,
+                    1.5176602427614354
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 31,
+            "position": [
+                0.9161361784596138,
+                0.3698276326112761
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.18434171844258285,
+                    1.6301723673887238
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 32,
+            "position": [
+                1.4180704887385678,
+                0.7025224100502627
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.3175925918363711,
+                    1.2974775899497373
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 33,
+            "position": [
+                1.1204201410302352,
+                0.8804449239277102
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.019942244128038578,
+                    1.1195550760722899
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 34,
+            "position": [
+                1.5387934599427207,
+                0.3694155043421124
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.438315563040524,
+                    1.6305844956578877
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 35,
+            "position": [
+                1.4039201950197036,
+                0.2169543432711169
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.3034422981175069,
+                    1.783045656728883
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 36,
+            "position": [
+                1.6538840404676902,
+                0.6539749751391212
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.5534061435654936,
+                    1.3460250248608787
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 37,
+            "position": [
+                1.206754431502957,
+                0.3957664890696301
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.10627653460076036,
+                    1.6042335109303698
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 38,
+            "position": [
+                1.029305640881995,
+                0.8044928447248557
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.07117225602020172,
+                    1.1955071552751444
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 39,
+            "position": [
+                1.4228467779725296,
+                0.38987954808180425
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.3223688810703329,
+                    1.6101204519181957
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 40,
+            "position": [
+                0.5709897907744216,
+                0.35162750843392027
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.5294881061277751,
+                    1.6483724915660798
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 41,
+            "position": [
+                1.3502178078384064,
+                0.40530004872063974
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.24973991093620973,
+                    1.5946999512793603
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 42,
+            "position": [
+                1.0440779690091362,
+                0.2910159492316123
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.056399927893060475,
+                    1.7089840507683878
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 43,
+            "position": [
+                1.5188705050997497,
+                0.37619703773417257
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.4183926081975531,
+                    1.6238029622658274
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 44,
+            "position": [
+                0.8478803634670026,
+                0.30965714043360887
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.2525975334351941,
+                    1.6903428595663912
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 45,
+            "position": [
+                0.5149722650941453,
+                0.709284693316246
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.5855056318080514,
+                    1.290715306683754
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 46,
+            "position": [
+                0.9531097432011311,
+                0.27624244922783314
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.1473681537010656,
+                    1.723757550772167
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 47,
+            "position": [
+                1.2175344583938918,
+                0.5763642903267924
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.11705656149169519,
+                    1.4236357096732077
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 48,
+            "position": [
+                1.3047934659970042,
+                0.526105703720047
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.20431556909480753,
+                    1.473894296279953
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 49,
+            "position": [
+                0.9194497075777384,
+                0.6382856868098283
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.1810281893244583,
+                    1.3617143131901717
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 50,
+            "position": [
+                1.4333023578165403,
+                0.39153621777584957
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.3328244609143436,
+                    1.6084637822241503
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 51,
+            "position": [
+                1.5486939378322189,
+                0.7461901524581611
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.4482160409300222,
+                    1.2538098475418389
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 52,
+            "position": [
+                1.146490814475126,
+                0.8659081627085048
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.04601291757292936,
+                    1.1340918372914952
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 53,
+            "position": [
+                1.065683790135008,
+                0.6316353694338599
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.03479410676718864,
+                    1.36836463056614
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 54,
+            "position": [
+                1.559805713344463,
+                0.5342882972750799
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.4593278164422663,
+                    1.4657117027249202
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 55,
+            "position": [
+                0.5718447895753256,
+                0.327333911068839
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.5286331073268711,
+                    1.672666088931161
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 56,
+            "position": [
+                0.7400159876447487,
+                0.8768365495210123
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.3604619092574479,
+                    1.1231634504789878
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 57,
+            "position": [
+                1.402429306255524,
+                0.7650436315621814
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.3019514093533273,
+                    1.2349563684378186
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 58,
+            "position": [
+                0.8306909868506936,
+                0.727723037111133
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.269786910051503,
+                    1.272276962888867
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 59,
+            "position": [
+                1.3144978121513191,
+                0.27266754386470626
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.21401991524912245,
+                    1.7273324561352936
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 60,
+            "position": [
+                0.9331893791346303,
+                0.25175979988576236
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.16728851776756637,
+                    1.7482402001142376
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 61,
+            "position": [
+                1.6643487876546865,
+                0.5519660969456465
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.5638708907524899,
+                    1.4480339030543536
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 62,
+            "position": [
+                1.3342465098462264,
+                0.36664697608009256
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.23376861294402973,
+                    1.6333530239199074
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 63,
+            "position": [
+                1.0099243506651139,
+                0.32437478565319605
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.09055354623708278,
+                    1.675625214346804
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 64,
+            "position": [
+                1.338414134801866,
+                0.3221049613275037
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.23793623789966944,
+                    1.6778950386724962
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 65,
+            "position": [
+                0.6025151664983726,
+                0.8078552044224769
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.4979627304038241,
+                    1.192144795577523
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 66,
+            "position": [
+                0.7060435729726289,
+                0.3005927024762443
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.3944343239295678,
+                    1.6994072975237557
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 67,
+            "position": [
+                1.2152315658486297,
+                0.7740757108060172
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.11475366894643302,
+                    1.2259242891939828
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 68,
+            "position": [
+                0.921511629131316,
+                0.6386435457928237
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.17896626777088065,
+                    1.3613564542071763
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 69,
+            "position": [
+                1.486573246008427,
+                0.5481679907529543
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.38609534910623045,
+                    1.4518320092470458
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 70,
+            "position": [
+                0.7024752353765431,
+                0.2596815174429075
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.39800266152565356,
+                    1.7403184825570925
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 71,
+            "position": [
+                0.704462603558622,
+                0.30841451036272227
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.39601529334357466,
+                    1.6915854896372777
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 72,
+            "position": [
+                1.5093147583012214,
+                0.38626025403986386
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.40883686139902475,
+                    1.6137397459601361
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 73,
+            "position": [
+                1.0326849797618742,
+                0.6869361138085373
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.06779291714032243,
+                    1.3130638861914627
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 74,
+            "position": [
+                1.47634550265103,
+                0.29797163295286805
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.37586760574883327,
+                    1.702028367047132
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 75,
+            "position": [
+                0.7964282156654433,
+                0.2581624805572388
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.30404968123675336,
+                    1.741837519442761
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 76,
+            "position": [
+                1.637637232780909,
+                0.33102709625460597
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.5371593358787123,
+                    1.668972903745394
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 77,
+            "position": [
+                1.0778769829695412,
+                0.3972965087055513
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.02260091393265551,
+                    1.6027034912944487
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 78,
+            "position": [
+                1.2950559794875554,
+                0.8230112077116074
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.1945780825853587,
+                    1.1769887922883926
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 79,
+            "position": [
+                0.9145151969152344,
+                0.44647951817939063
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.18596269998696224,
+                    1.5535204818206094
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 80,
+            "position": [
+                0.5068117763194375,
+                0.3680507171386933
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.5936661205827591,
+                    1.6319492828613067
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 81,
+            "position": [
+                1.5868866683116702,
+                0.348520079900218
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.4864087714094736,
+                    1.651479920099782
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 82,
+            "position": [
+                0.5935122442843228,
+                0.20678468916729922
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.5069656526178739,
+                    1.7932153108327007
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 83,
+            "position": [
+                1.486194702211895,
+                0.6989720472833132
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.38571680530969843,
+                    1.3010279527166868
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 84,
+            "position": [
+                1.2542398961954486,
+                0.6173598152967705
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.15376199929325196,
+                    1.3826401847032295
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 85,
+            "position": [
+                1.0720793210020656,
+                0.5671761222515698
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.028398575900131062,
+                    1.4328238777484303
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 86,
+            "position": [
+                0.9576472982233136,
+                0.25252646856008554
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.14283059867888304,
+                    1.7474735314399146
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 87,
+            "position": [
+                0.8726485525962999,
+                0.8480776038552346
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.22782934430589674,
+                    1.1519223961447653
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 88,
+            "position": [
+                0.8774180165820634,
+                0.7202281992186395
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.22305988032013324,
+                    1.2797718007813605
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 89,
+            "position": [
+                1.259898825539138,
+                0.2096280262733076
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.15942092863694124,
+                    1.7903719737266923
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 90,
+            "position": [
+                0.7177984993034137,
+                0.3673416462457404
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.382679397598783,
+                    1.6326583537542596
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 91,
+            "position": [
+                1.5604911367131653,
+                0.4753979112874108
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.46001323981096864,
+                    1.524602088712589
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 92,
+            "position": [
+                1.4975424089164642,
+                0.889344164545706
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.3970645120142675,
+                    1.1106558354542941
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 93,
+            "position": [
+                0.5080779357950455,
+                0.43622504042025007
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.5923999611071512,
+                    1.5637749595797499
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 94,
+            "position": [
+                0.9587604855165297,
+                0.655971838322998
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.14171741138566696,
+                    1.344028161677002
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 95,
+            "position": [
+                0.6361572400603187,
+                0.3357481390923015
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.46432065684187795,
+                    1.6642518609076986
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 96,
+            "position": [
+                0.8954680926409899,
+                0.7333738744388534
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.20500980426120674,
+                    1.2666261255611466
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 97,
+            "position": [
+                1.4139791737146998,
+                0.6404897935225218
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.31350127681250317,
+                    1.3595102064774782
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 98,
+            "position": [
+                1.6983404034084764,
+                0.7810861688462988
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.5978625065062797,
+                    1.218913831153701
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 99,
+            "position": [
+                1.018948858194473,
+                0.22365301438742055
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.08152903870772366,
+                    1.7763469856125795
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 100,
+            "position": [
+                1.183313989765846,
+                0.24301184107795593
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.08283609286364935,
+                    1.7569881589220442
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 101,
+            "position": [
+                1.6801061096626786,
+                0.5096352726683796
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.5796282127604819,
+                    1.4903647273316203
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 102,
+            "position": [
+                0.9999053946190789,
+                0.2629408318553176
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.10057250228311776,
+                    1.7370591681446825
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 103,
+            "position": [
+                1.2270242399320561,
+                0.5645239700310065
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.12654634302985945,
+                    1.4354760299689935
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 104,
+            "position": [
+                1.11015612301658,
+                0.24890169587508754
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    -0.009678226114383293,
+                    1.7510983041249124
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 105,
+            "position": [
+                1.0636420564094506,
+                0.34174465180016894
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.03683584049274602,
+                    1.658255348199831
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 106,
+            "position": [
+                0.6364317128893384,
+                0.8054077329155703
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.46404618401285824,
+                    1.1945922670844298
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        },
+        {
+            "id": 107,
+            "position": [
+                1.0635475332608364,
+                0.8530339747180347
+            ],
+            "properties": {
+                "active": true,
+                "desired_omega": 0.0,
+                "desired_velocity": [
+                    0.036930363641360264,
+                    1.1469660252819653
+                ],
+                "force": [
+                    0.0,
+                    0.0
+                ],
+                "mass": 1.0,
+                "moment_inertia": 0.1,
+                "omega": 0.0,
+                "velocity": [
+                    0.0,
+                    0.0
+                ]
+            },
+            "quaternion": [
+                1.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "radius": 0.02,
+            "rotation": [
+                1.0,
+                -0.0,
+                0.0,
+                1.0
+            ],
+            "type": "sphere"
+        }
+    ]
+}
