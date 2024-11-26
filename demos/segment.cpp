@@ -15,9 +15,9 @@ double computeDistance(double x1, double y1, double x2, double y2);
 int main(int argc, char** argv)
 {
     constexpr std::size_t dim = 2;
-    double dt                 = .001;
+    double dt                 = .002;//0.001
     const double max_radius   = 0.05;
-    std::size_t total_it      = 50;//250 total time iterations
+    std::size_t total_it      = 51;//250 total time iterations
     std::size_t n_parts       = 20;//20
     
     scopi::initialize("spheres passing between two segments");//just adds a title to your command line option
@@ -51,6 +51,17 @@ int main(int argc, char** argv)
     json_obj["Na"].push_back(n_parts);
     json_obj["deltat"].push_back(dt);
 
+    //double length=1;//0.4
+    double l_salle=2.25;//it is constant
+    double l_mur=0.05;
+    double ymur=1.0;
+    double start=0.;
+    
+    //Sauvegarder aussi les autres parametres geometriques
+    json_obj["l_mur"].push_back(l_mur);
+    json_obj["start"].push_back(start);
+    json_obj["ymur"].push_back(ymur);
+    json_obj["l_salle"].push_back(l_salle);
 
     for (std::size_t itrain = 0; itrain < nsim; ++itrain)
     {
@@ -68,10 +79,7 @@ int main(int argc, char** argv)
         auto s_vel=distrib_s(generator); //For now, the spontaneous velocity is the same for all the particles. It only varies for different geometric configurations
         
 
-        double length=1;//0.4
-        double l_mur=0.05;
-        double ymur=1.0;
-        double start=0.;
+        length=0.5*(l_salle-lexit);
         
         scopi::segment<dim> seg1(scopi::type::position_t<dim>{start, ymur}, scopi::type::position_t<dim>{length, ymur});
         scopi::segment<dim> seg2(scopi::type::position_t<dim>{length+lexit, ymur}, scopi::type::position_t<dim>{length+length+lexit, ymur});
@@ -138,6 +146,7 @@ int main(int argc, char** argv)
         json_obj["lexit"].push_back(lexit);//add an element to the end of a container such that vector or list
         //add another field for the spontaneous velocity modulus
         json_obj["s"].push_back(s_vel);
+    
         // Sauvegarder l'objet JSON dans un fichier
         if (flag_test=="train"){
             std::ofstream file("lexit_train.json");//ofstream to open the file for writing
@@ -163,7 +172,7 @@ int main(int argc, char** argv)
 
     }
     
-
+    
     return 0;
 }
 
