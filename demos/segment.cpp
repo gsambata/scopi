@@ -17,8 +17,8 @@ int main(int argc, char** argv)
     constexpr std::size_t dim = 2;
     double dt                 = .001;
     const double max_radius   = 0.05;
-    std::size_t total_it      = 250;//500 total time iterations
-    std::size_t n_parts       = 20;//100
+    std::size_t total_it      = 50;//250 total time iterations
+    std::size_t n_parts       = 20;//20
     
     scopi::initialize("spheres passing between two segments");//just adds a title to your command line option
 
@@ -65,7 +65,8 @@ int main(int argc, char** argv)
         //Distribution for spontaneous velocity
         double sbar=5.0;
         std::uniform_real_distribution<double> distrib_s(sbar-0.1*sbar, sbar+0.1*sbar);
-        auto s=distrib_s(generator); //For now, the spontaneous velocity is the same for all the particles. It only varies for different geometric configurations
+        auto s_vel=distrib_s(generator); //For now, the spontaneous velocity is the same for all the particles. It only varies for different geometric configurations
+        
 
         double length=1;//0.4
         double l_mur=0.05;
@@ -103,7 +104,7 @@ int main(int argc, char** argv)
             double dist_factor=computeDistance(start+length+0.5*lexit,2, x,y);
             auto prop   = scopi::property<dim>()
                             .desired_velocity({
-                                {(start+length+0.5*lexit - x)*s/dist_factor, (2 - y)*s/dist_factor}// ymur+l_mur
+                                {(start+length+0.5*lexit - x)*s_vel/dist_factor, (2 - y)*s_vel/dist_factor}// ymur+l_mur
             })
                             .mass(1.)
                             .moment_inertia(0.1);
@@ -136,7 +137,7 @@ int main(int argc, char** argv)
         // Ajouter des données à l'objet JSON
         json_obj["lexit"].push_back(lexit);//add an element to the end of a container such that vector or list
         //add another field for the spontaneous velocity modulus
-        json_obj["s"].push_back(s);
+        json_obj["s"].push_back(s_vel);
         // Sauvegarder l'objet JSON dans un fichier
         if (flag_test=="train"){
             std::ofstream file("lexit_train.json");//ofstream to open the file for writing
@@ -153,7 +154,7 @@ int main(int argc, char** argv)
                 if (file.is_open()) {
                     file << json_obj.dump(4); // The updated JSON object is serialized and written back to the file using json_obj.dump(4) (with an indentation of 4 spaces for readability).
                     file.close();
-                    //std::cout << "Fichier JSON créé avec succès !" << std::endl;
+                    std::cout << "Fichier JSON créé avec succès !" << std::endl;
                 } else {
                     std::cerr << "Erreur lors de l'ouverture du fichier !" << std::endl;
                 }

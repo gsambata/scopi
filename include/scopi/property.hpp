@@ -63,7 +63,7 @@ namespace scopi
          *
          * @return Property with the new desired velocity.
          */
-        property& desired_velocity(const velocity_type& dv);
+        property& desired_velocity(const velocity_type &dv);
         /**
          * @brief Get the desired velocity.
          *
@@ -218,6 +218,7 @@ namespace scopi
         m_dv = dv;
         return *this;
     }
+    
 
     template <std::size_t dim>
     auto property<dim>::desired_velocity() const -> const velocity_type
